@@ -1,10 +1,5 @@
 <h2 align="center">Hi there! 👋 I'm Shrey, a curious student passionate about exploring and creating with AI. I love experimenting with innovative ideas and turning them into reality. 🚀</h2>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xUPOqbLxLCPuy84o6c/giphy.gif" width="500" alt="AI Coding">
-</div>
-
----
 
 <div align="center">
 
