@@ -70,7 +70,7 @@
 ---
 
 <p align="center">
-  <img src="https://badges.pufler.dev/visits/{Hyperspectral01}/{Hyperspectral01}" alt="Visitor Count"/>
+  <a href="https://visitorbadge.io/status?path=Hyperspectral01"><img src="https://api.visitorbadge.io/api/visitors?path=Hyperspectral01&label=Visitors&countColor=%23ba68c8" /></a>
   <img src="https://img.shields.io/badge/Made_with-❤️-red?style=flat" alt="Made with Love"/>
 </p>
 
