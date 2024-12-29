@@ -1,4 +1,9 @@
-<h2 align="center">Hi there! 👋 I'm Shrey, a curious student passionate about exploring and creating with AI. I love experimenting with innovative ideas and turning them into reality. 🚀</h2>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ffb25ac5-01f6-46cd-b3da-e35e91617dcc" alt="Conceptual View" style="height:300px;" />
+</p>
+
+
+<h2 align="center">Hi there! 👋 I'm Shrey, a curious student passionate about exploring AI. I’m hooked on chasing ideas, breaking boundaries, and turning “what if” into “why not.” 🚀</h2>
 
 
 <div align="center">
@@ -59,6 +64,10 @@
   <a href="mailto:svyas4067@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://x.com/ShreyVyas15?t=1tgbnK9LcJNnRAZa-n_PcQ&s=08" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
 </p>
+
+---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hyperspectral01&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 ---
 
