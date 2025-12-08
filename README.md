@@ -1,6 +1,8 @@
 <div align="left">
 
-<img align="right" height="300" width="500" src="https://github.com/user-attachments/assets/6d6e0f9d-f671-4a29-bfaf-65e40507d02f" height="600" width="600" />
+<img align="right" height="300" width="500" src="https://github.com/user-attachments/assets/6d6e0f9d-f671-4a29-bfaf-65e40507d02f" height="500" width="600" />
+
+<br>
 
 ### Shrey Vyas
 
@@ -12,9 +14,9 @@
 
 ![Explorations](https://img.shields.io/badge/Explorations-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) using PyTorch to make NLP and CV systems from scratch
 
-![Interesting Fact](https://img.shields.io/badge/Interesting_Fact-0A66C2?style=flat-square&logo=readthedocs&logoColor=white)  I like building things from scratch with proper documentation
-
 <img align="right" src="https://github.com/user-attachments/assets/374c4f32-1eb2-4fc7-a2e6-f8c4e1c73ed1" height="50" width="500" />
+
+![Interesting Fact](https://img.shields.io/badge/Interesting_Fact-0A66C2?style=flat-square&logo=readthedocs&logoColor=white)  I like building things from scratch with proper documentation
 
 ![Just Wondering](https://img.shields.io/badge/Just_Wondering-555555?style=flat-square&logo=azurepipelines&logoColor=white)  what gaps exist between my MLOps setup and a real production system
 
