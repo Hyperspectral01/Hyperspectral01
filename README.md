@@ -1,86 +1,71 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ffb25ac5-01f6-46cd-b3da-e35e91617dcc" alt="Conceptual View" style="height:300px;" />
-</p>
+<div align="left">
 
+<img align="right" height="300" width="500" src="https://github.com/user-attachments/assets/6d6e0f9d-f671-4a29-bfaf-65e40507d02f" height="600" width="600" />
 
-<h2 align="center">Hi there! 👋 I'm Shrey, a curious student passionate about exploring AI. I’m hooked on chasing ideas, breaking boundaries, and turning “what if” into “why not.” 🚀</h2>
+### Shrey Vyas
 
+![Currently Working On](https://img.shields.io/badge/Currently_Working_On-000000?style=flat-square&logo=github&logoColor=white)  making and training AI models to match AMV tracking systems used @ SAC, ISRO, Ahmedabad
 
-<div align="center">
+![A Cool Project](https://img.shields.io/badge/A_Cool_Project-1a73e8?style=flat-square&logo=kubernetes&logoColor=white)  an end-to-end MLOps pipeline using Kubernetes, MLflow and Prometheus on GCP
 
+![Hands Dirty Recently](https://img.shields.io/badge/Hands_Dirty_Recently-6a1b9a?style=flat-square&logo=googlecloud&logoColor=white)  satellite images and that cool MLOps project
 
-### 🚀 **Tech Stack** 💻  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Explorations](https://img.shields.io/badge/Explorations-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) using PyTorch to make NLP and CV systems from scratch
 
----
+![Interesting Fact](https://img.shields.io/badge/Interesting_Fact-0A66C2?style=flat-square&logo=readthedocs&logoColor=white)  I like building things from scratch with proper documentation
 
-### 📈 **GitHub Stats** 🔥  
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Hyperspectral01&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hyperspectral01&theme=midnight-purple&hide_border=false" alt="GitHub Streak Stats"/>
-    </td>
-  </tr>
-</table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperspectral01&theme=midnight-purple&hide_border=false&layout=compact" alt="Top Languages"/>
+<img align="right" src="https://github.com/user-attachments/assets/374c4f32-1eb2-4fc7-a2e6-f8c4e1c73ed1" height="50" width="500" />
 
----
+![Just Wondering](https://img.shields.io/badge/Just_Wondering-555555?style=flat-square&logo=azurepipelines&logoColor=white)  what gaps exist between my MLOps setup and a real production system
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&width=600&lines=Are+AI+and+humans+gonna+compete+in+TikTok+dance+%3F;Machine+learning—guessing%2C+but+with+math.;Segmentation+fault%3A+it+broke+my+heart.;AI+prediction+failed—blame+the+dataset.;Stack+overflow%3A+where+coders+go+cry.;AI%3A+Artificial%3F+Feels+pretty+natural+now.;404+joke+not+found%2C+retrying..." alt="Typing SVG"/>
-</p>
+![I Like To Laugh About](https://img.shields.io/badge/I_Like_To_Laugh_About-FD7E14?style=flat-square&logo=cloudflare&logoColor=white)  how the DevOps team keeps crying about bandwidth
 
----
+![Something About Me](https://img.shields.io/badge/Something_About_Me-25A46B?style=flat-square&logo=googlemessages&logoColor=white)  I enjoy meeting interesting people
 
-### ✍️ **Dev Quote** 📜  
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</div>
+![Status](https://img.shields.io/badge/I_am_married_to_MLOps_and_have_an_affair_with_AMVs-111111?style=flat-square&logo=github&logoColor=white)
 
----
+<br>
+<br>
 
-### 🌐 **Find Me Online** 🌍  
-<p align="center">
-  <a href="https://www.linkedin.com/in/shrey-vyas-054b92256" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/shreyvyas008/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:svyas4067@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://x.com/ShreyVyas15?t=1tgbnK9LcJNnRAZa-n_PcQ&s=08" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
-</p>
+![Studying](https://img.shields.io/badge/Studying-7950F2?style=flat-square)  Nirma University, Ahmedabad
 
----
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hyperspectral01&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
----
-
-### 🏆 **GitHub Trophies** 🏅  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hyperspectral01&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-<p align="center">
-  <a href="https://visitorbadge.io/status?path=Hyperspectral01"><img src="https://api.visitorbadge.io/api/visitors?path=Hyperspectral01&label=Visitors&countColor=%23ba68c8" /></a>
-  <img src="https://img.shields.io/badge/Made_with-❤️-red?style=flat" alt="Made with Love"/>
-</p>
+![Likes](https://img.shields.io/badge/Likes-F03E3E?style=flat-square)  Holy Moly, spending the nightout at the Riverfront
 
 </div>
+
+<br>
+
+### ⚙️ Tech Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-000000?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-000000?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-000000?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+
+
+<br>
+
+### 🌍 Find Me Online
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrey-vyas-054b92256)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shreyvyas008/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hyperspectral01)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svyas4067@gmail.com)
+
+<br>
+
+<img align="left" height="150" width="150" src="https://github.com/user-attachments/assets/10a7837d-f464-4e1a-9bcd-f9c06c3a6f96"  />
