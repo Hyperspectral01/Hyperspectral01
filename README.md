@@ -2,8 +2,6 @@
 
 <img align="right" height="300" width="500" src="https://github.com/user-attachments/assets/6d6e0f9d-f671-4a29-bfaf-65e40507d02f" height="500" width="600" />
 
-<br>
-
 ### Shrey Vyas
 
 <br>
