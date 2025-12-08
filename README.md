@@ -6,6 +6,8 @@
 
 ### Shrey Vyas
 
+<br>
+
 ![Currently Working On](https://img.shields.io/badge/Currently_Working_On-000000?style=flat-square&logo=github&logoColor=white)  making and training AI models to match AMV tracking systems used @ SAC, ISRO, Ahmedabad
 
 ![A Cool Project](https://img.shields.io/badge/A_Cool_Project-1a73e8?style=flat-square&logo=kubernetes&logoColor=white)  an end-to-end MLOps pipeline using Kubernetes, MLflow and Prometheus on GCP
