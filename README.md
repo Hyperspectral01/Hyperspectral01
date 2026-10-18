@@ -29,7 +29,7 @@
 <br>
 <br>
 
-![Studying](https://img.shields.io/badge/Studying-7950F2?style=flat-square)  Nirma University, Ahmedabad
+![Studying](https://img.shields.io/badge/Studying-7950F2?style=flat-square)  RPTU, Kaiserslautern, Germany
 
 ![Likes](https://img.shields.io/badge/Likes-F03E3E?style=flat-square)  Holy Moly, spending the nightout at the Riverfront
 
